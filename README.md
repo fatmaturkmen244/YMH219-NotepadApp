@@ -28,7 +28,7 @@ Not koleksiyonu (`List<Not>`) **`System.Text.Json`** ile `notlar.json` dosyasın
 
 1. **Depoyu klonlayın:**
    ```bash
-   git clone https://github.com/fatmaturkmen244-spec/YMH219-NotepadApp.git
+   git clone https://github.com/fatmaturkmen244/YMH219-NotepadApp.git
    cd YMH219-NotepadApp
    ```
 2. **Visual Studio ile çalıştırma:**
